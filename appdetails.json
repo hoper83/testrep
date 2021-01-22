@@ -1,7 +1,7 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.0",
+    "version":"0.9.2",
     "title":"New Update is Available",
     "description":"Fixed Bugs and Improved performance. Added few more servers!",
     "size":"Size 10MB"
