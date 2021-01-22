@@ -17,9 +17,8 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Montreal","country":"Canada","image":"canada","ip":"51.222.84.104","active":"true","signal":"a","maxconn":"10"},
-    {"id":1, "file":1, "city":"Roubaix","country":"Francia","image":"france","ip":"149.202.43.35","active":"true","signal":"a","maxconn":"10"},
-    {"id":2, "file":1, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"a","maxconn":"10"}
-    
+    {"id":1, "file":1, "city":"Roubaix","country":"France","image":"france","ip":"149.202.43.35","active":"true","signal":"a","maxconn":"10"},
+    {"id":2, "file":2, "city":"Milan","country":"Italy","image":"Italy","ip":"92.223.93.163","active":"true","signal":"a","maxconn":"20"}    
     
   ]
 }
