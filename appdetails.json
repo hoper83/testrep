@@ -16,13 +16,10 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Montreal","country":"Canada","image":"canada","ip":"51.222.84.104","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Roubaix","country":"Francia","image":"france","ip":"149.202.43.35","active":"true","signal":"a"},
-    {"id":2, "file":1, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"a"},
-    {"id":3, "file":1, "city":"Bangkok","country":"United States","image":"thailand","ip":"205.185.119.100","active":"true","signal":"a"},
-    {"id":4, "file":1, "city":"London","country":"United States","image":"unitedkingdom","ip":"205.185.119.100","active":"true","signal":"a"},
-    {"id":5, "file":1, "city":"Singapore","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"a"},
-    {"id":6, "file":1, "city":"Sydney","country":"United States","image":"australia","ip":"205.185.119.100","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Montreal","country":"Canada","image":"canada","ip":"51.222.84.104","active":"true","signal":"a","maxconn":"10"},
+    {"id":1, "file":1, "city":"Roubaix","country":"Francia","image":"france","ip":"149.202.43.35","active":"true","signal":"a","maxconn":"10"},
+    {"id":2, "file":1, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"a","maxconn":"10"}
+    
     
   ]
 }
