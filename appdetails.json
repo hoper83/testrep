@@ -1,10 +1,10 @@
 {
   "ads":"true",
   "update":[{
-    "version":"0.9.2",
+    "version":"0.9.3",
     "title":"New Update is Available",
     "description":"Fixed Bugs and Improved performance. Added few more servers!",
-    "size":"Size 10MB"
+    "size":"Size 6MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
