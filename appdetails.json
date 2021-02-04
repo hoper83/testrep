@@ -4,7 +4,8 @@
     "version":"0.9.4",
     "title":"New Update is Available",
     "description":"Fixed Bugs and Improved performance.",
-    "size":"Size 6MB"
+    "size":"Size 6MB",
+    "versioncode": "5"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
