@@ -1,11 +1,11 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.0",
+    "version":"1.0.1",
     "title":"New Update is Available",
     "description":"Fixed Bugs and Improved performance.",
     "size":"Size 6MB",
-    "versioncode": "6"
+    "versioncode": "7"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
