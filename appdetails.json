@@ -24,6 +24,6 @@
     {"id":4, "file":3, "city":"Limburg","country":"Germany","image":"germany","ip":"51.195.107.77","active":"true","signal":"a","maxconn":"11"},
     {"id":5, "file":5, "city":"Bexley","country":"England","image":"unitedkingdom","ip":"51.195.221.50","active":"true","signal":"a","maxconn":"27"},
     {"id":6, "file":6, "city":"New York","country":"New York","image":"unitedstates","ip":"5.188.0.66","active":"true","signal":"a","maxconn":"21"},
-    {"id":7, "file":7, "city":"Madrid","country":"Spain","image":"spain","ip":"82.223.68.249","active":"true","signal":"a","maxconn":"49"}
+    {"id":7, "file":7, "city":"Madrid","country":"Spain","image":"spain","ip":"82.223.68.249","active":"false","signal":"a","maxconn":"49"}
   ]
 }
