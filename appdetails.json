@@ -18,7 +18,7 @@
   "free":[
     {"id":0, "file":0, "city":"Montreal","country":"Canada","image":"canada","ip":"51.222.84.104","active":"true","signal":"a","maxconn":"11"},
     {"id":1, "file":1, "city":"Roubaix","country":"France","image":"france","ip":"149.202.43.35","active":"true","signal":"a","maxconn":"11"},
-    {"id":2, "file":2, "city":"Milan","country":"Italy","image":"italy","ip":"92.223.93.163","active":"true","signal":"a","maxconn":"26"},
+    {"id":2, "file":2, "city":"Milan","country":"Italy","image":"italy","ip":"92.223.93.163","active":"true","signal":"a","maxconn":"36"},
     {"id":3, "file":4, "city":"Milan","country":"Italy (2)","image":"italy","ip":"92.223.79.172","active":"true","signal":"a","maxconn":"21"},
     {"id":4, "file":3, "city":"Limburg","country":"Germany","image":"germany","ip":"51.195.107.77","active":"true","signal":"a","maxconn":"11"},
     {"id":5, "file":5, "city":"Bexley","country":"England","image":"unitedkingdom","ip":"51.195.221.50","active":"true","signal":"a","maxconn":"27"},
