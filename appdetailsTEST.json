@@ -17,5 +17,6 @@
     {"id":5, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Hong Kong","country":"Hong Kong","image":"unitedstates","ip":"62.216.93.31","active":"true","signal":"a","maxconn":"21"}    
+    {"id":0, "file":0, "city":"Hong Kong","country":"Hong Kong","image":"unitedstates","ip":"62.216.93.31","active":"true","signal":"a","maxconn":"21"} 
+    ]
 }
