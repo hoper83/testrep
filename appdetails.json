@@ -1,11 +1,11 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.0.2",
+    "version":"1.0.3",
     "title":"New Update is Available",
-    "description":"Fixed Bugs",
+    "description":"New National Flag Layout and Minor Fix",
     "size":"Size 10MB",
-    "versioncode": "8"
+    "versioncode": "9"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
