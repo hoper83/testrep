@@ -18,15 +18,14 @@
   "free":[
     {"id":0, "file":0, "city":"Montreal","country":"Canada","image":"canada","ip":"51.222.84.104","active":"true","signal":"a","maxconn":"11"},
     {"id":1, "file":10, "city":"Los Angeles","country":"California","image":"unitedstates","ip":"195.123.240.238","active":"true","signal":"a","maxconn":"200"},
-    {"id":2, "file":2, "city":"Milan","country":"Italy","image":"italy","ip":"92.223.93.163","active":"true","signal":"a","maxconn":"36"},
-    {"id":3, "file":4, "city":"Milan","country":"Italy (2)","image":"italy","ip":"92.223.79.172","active":"true","signal":"a","maxconn":"21"},
-    {"id":4, "file":9, "city":"Hong Kong","country":"Hong Kong","image":"hongkong","ip":"62.216.93.31","active":"true","signal":"a","maxconn":"100"},
-    {"id":5, "file":12, "city":"Karlsruhe","country":"Germany","image":"germany","ip":"217.160.174.128","active":"true","signal":"a","maxconn":"69"},
-    {"id":6, "file":5, "city":"Bexley","country":"England","image":"unitedkingdom","ip":"51.195.221.50","active":"true","signal":"a","maxconn":"46"},
-    {"id":7, "file":11, "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.79.222.57","active":"true","signal":"a","maxconn":"80"},    
-    {"id":8, "file":6, "city":"New York","country":"New York","image":"unitedstates","ip":"5.188.0.66","active":"true","signal":"a","maxconn":"21"},    
-    {"id":9, "file":8, "city":"Elizabeth","country":"New Jersey","image":"unitedstates","ip":"74.208.80.112","active":"true","signal":"a","maxconn":"49"},
-    {"id":10, "file":7, "city":"Madrid","country":"Spain","image":"spain","ip":"82.223.68.249","active":"true","signal":"a","maxconn":"49"},
-    {"id":11, "file":13, "city":"Singapore","country":"Singapore (2)","image":"singapore","ip":"217.197.161.89","active":"true","signal":"a","maxconn":"120"}
+    {"id":2, "file":4, "city":"Milan","country":"Italy","image":"italy","ip":"92.223.79.172","active":"true","signal":"a","maxconn":"45"},
+    {"id":3, "file":9, "city":"Hong Kong","country":"Hong Kong","image":"hongkong","ip":"62.216.93.31","active":"true","signal":"a","maxconn":"100"},
+    {"id":4, "file":12, "city":"Karlsruhe","country":"Germany","image":"germany","ip":"217.160.174.128","active":"true","signal":"a","maxconn":"69"},
+    {"id":5, "file":5, "city":"Bexley","country":"England","image":"unitedkingdom","ip":"51.195.221.50","active":"true","signal":"a","maxconn":"46"},
+    {"id":6, "file":11, "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.79.222.57","active":"true","signal":"a","maxconn":"80"},    
+    {"id":7, "file":6, "city":"New York","country":"New York","image":"unitedstates","ip":"5.188.0.66","active":"true","signal":"a","maxconn":"21"},    
+    {"id":8, "file":8, "city":"Elizabeth","country":"New Jersey","image":"unitedstates","ip":"74.208.80.112","active":"true","signal":"a","maxconn":"49"},
+    {"id":9, "file":7, "city":"Madrid","country":"Spain","image":"spain","ip":"82.223.68.249","active":"true","signal":"a","maxconn":"49"},
+    {"id":10, "file":13, "city":"Singapore","country":"Singapore (2)","image":"singapore","ip":"217.197.161.89","active":"true","signal":"a","maxconn":"120"}
   ]
 }
