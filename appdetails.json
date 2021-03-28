@@ -1,11 +1,11 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.0.5",
+    "version":"1.0.6",
     "title":"New Update is Available",
-    "description":"Automatic Best Server Selection. Fix BUG.",
+    "description":"Various layout bug fixed",
     "size":"Size 10MB",
-    "versioncode": "11"
+    "versioncode": "12"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
