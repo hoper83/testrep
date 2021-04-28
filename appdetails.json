@@ -1,11 +1,11 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.0.8",
+    "version":"1.0.9",
     "title":"New Update is Available",
-    "description":"Minor fix",
+    "description":"Minor Layout Fix",
     "size":"Size 12MB",
-    "versioncode": "17"
+    "versioncode": "18"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
