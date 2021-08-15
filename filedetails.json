@@ -1742,6 +1742,7 @@ cipher AES-256-CBC
 ignore-unknown-option block-outside-dns
 block-outside-dns
 verb 3
+mssfix 1431
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIDQjCCAiqgAwIBAgIUebbPEMrcfIgRXX/JmYs1dk6SV50wDQYJKoZIhvcNAQEL
