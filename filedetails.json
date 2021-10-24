@@ -1836,7 +1836,7 @@ a433e7101e669506f7aaef2cb7f8bc55
 5e152b4251dd963cc95977aad3b4ff33
 f2f0a1189e3430fa7677092f54226426
 -----END OpenVPN Static key V1-----
-</tls-crypt>"}},
+</tls-crypt>"},
      {"id":17,"file":"client
 dev tun
 proto udp
