@@ -26,9 +26,8 @@
     {"id":7, "file":6, "city":"New York","country":"New York","image":"unitedstates","ip":"5.188.0.66","active":"true","signal":"a","maxconn":"45"},    
     {"id":8, "file":8, "city":"Elizabeth","country":"New Jersey","image":"unitedstates","ip":"74.208.80.112","active":"true","signal":"a","maxconn":"200"},
     {"id":9, "file":7, "city":"Madrid","country":"Spain","image":"spain","ip":"82.223.68.249","active":"true","signal":"a","maxconn":"49"},
-    {"id":10, "file":13, "city":"Singapore","country":"Singapore","image":"singapore","ip":"81.90.188.88","active":"true","signal":"a","maxconn":"200"},
+    {"id":10, "file":17, "city":"Singapore","country":"Singapore","image":"singapore","ip":"194.233.82.105","active":"true","signal":"a","maxconn":"250"},
     {"id":11, "file":15, "city":"Tokyo","country":"Japan","image":"japan","ip":"185.168.20.69","active":"true","signal":"a","maxconn":"150"},
-    {"id":12, "file":16, "city":"Singapore","country":"Singapore 2","image":"singapore","ip":"81.90.189.25","active":"true","signal":"a","maxconn":"250"},
-    {"id":13, "file":17, "city":"Singapore","country":"Singapore 3","image":"singapore","ip":"194.233.82.105","active":"true","signal":"a","maxconn":"250"}
+    {"id":12, "file":16, "city":"Singapore","country":"Singapore 2","image":"singapore","ip":"81.90.189.25","active":"true","signal":"a","maxconn":"250"}    
   ]
 }
