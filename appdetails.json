@@ -1,11 +1,11 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.1.1",
+    "version":"1.1.2",
     "title":"New Update is Available",
-    "description":"Minor fix",
+    "description":"Fix no connection at start app in some region",
     "size":"Size 12MB",
-    "versioncode": "20"
+    "versioncode": "21"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
