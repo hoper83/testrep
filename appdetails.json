@@ -37,6 +37,7 @@
     {"id":18, "file":25, "city":"Singapore","country":"Singapore 3","image":"singapore","ip":"194.233.90.29","active":"true","signal":"a","maxconn":"1000"},
     {"id":19, "file":26, "city":"Stockholm","country":"Sweden","image":"sweden","ip":"185.96.163.126","active":"true","signal":"a","maxconn":"60"},
     {"id":20, "file":27, "city":"Chicago","country":"Illinois","image":"unitedstates","ip":"92.38.176.13","active":"true","signal":"a","maxconn":"250"},
-    {"id":21, "file":28, "city":"Madrid","country":"Spain 2","image":"spain","ip":"87.106.237.19","active":"true","signal":"a","maxconn":"250"}
+    {"id":21, "file":28, "city":"Madrid","country":"Spain 2","image":"spain","ip":"87.106.237.19","active":"true","signal":"a","maxconn":"250"},
+    {"id":22, "file":29, "city":"Santa Clara","country":"California","image":"unitedstates","ip":"92.38.149.49","active":"true","signal":"a","maxconn":"250"}
   ]
 }
