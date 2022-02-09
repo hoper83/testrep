@@ -33,7 +33,6 @@
     {"id":14, "file":19, "city":"Beuren","country":"Germany 2","image":"germany","ip":"212.227.208.158","active":"true","signal":"a","maxconn":"1000"},
     {"id":15, "file":21, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"185.101.139.12","active":"true","signal":"a","maxconn":"250"},
     {"id":16, "file":22, "city":"Sydney","country":"Australia","image":"australia","ip":"139.99.169.135","active":"true","signal":"a","maxconn":"30"},
-    {"id":17, "file":23, "city":"Moscow","country":"Russia","image":"russia","ip":"92.38.152.221","active":"true","signal":"a","maxconn":"250"},
-    {"id":18, "file":24, "city":"Sydney","country":"Australia 2","image":"australia","ip":"51.161.134.34","active":"true","signal":"a","maxconn":"30"}
+    {"id":17, "file":23, "city":"Moscow","country":"Russia","image":"russia","ip":"92.38.152.221","active":"true","signal":"a","maxconn":"250"}
   ]
 }
