@@ -2488,7 +2488,7 @@ da5dccf842c446351f6ef016ef74acaf
      {"id":23,"file":"client
 dev tun
 proto udp
-remote 92.38.152.221 1194
+remote 92.38.152.113 1194
 resolv-retry infinite
 nobind
 persist-key
