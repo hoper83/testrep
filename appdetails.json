@@ -40,6 +40,7 @@
     {"id":21, "file":31, "city":"Zurich","country":"Switzerland","image":"switzerland","ip":"185.126.116.14","active":"true","signal":"a","maxconn":"100"},
     {"id":22, "file":33, "city":"Beuren","country":"Germany 3","image":"germany","ip":"212.227.142.115","active":"true","signal":"a","maxconn":"250"},
     {"id":23, "file":34, "city":"Gloucester","country":"England 2","image":"unitedkingdom","ip":"77.68.75.200","active":"true","signal":"a","maxconn":"500"},
-    {"id":24, "file":35, "city":"Stockholm","country":"Sweden 2","image":"sweden","ip":"185.82.126.212","active":"true","signal":"a","maxconn":"500"}
+    {"id":24, "file":35, "city":"Stockholm","country":"Sweden 2","image":"sweden","ip":"185.82.126.212","active":"true","signal":"a","maxconn":"500"},
+    {"id":25, "file":36, "city":"London","country":"England 3","image":"unitedkingdom","ip":"51.195.254.188","active":"true","signal":"a","maxconn":"100"}
   ]
 }
