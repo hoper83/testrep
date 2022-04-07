@@ -42,6 +42,6 @@
     {"id":23, "file":34, "city":"Gloucester","country":"England 2","image":"unitedkingdom","ip":"77.68.75.200","active":"true","signal":"a","maxconn":"500"},
     {"id":24, "file":35, "city":"Stockholm","country":"Sweden 2","image":"sweden","ip":"185.82.126.212","active":"true","signal":"a","maxconn":"500"},
     {"id":25, "file":36, "city":"London","country":"England 3","image":"unitedkingdom","ip":"51.195.254.188","active":"true","signal":"a","maxconn":"100"},
-    {"id":26, "file":37, "city":"Paris","country":"France 2","image":"france","ip":"92.222.170.235","active":"true","signal":"a","maxconn":"100"}
+    {"id":26, "file":37, "city":"Paris","country":"France 2","image":"france","ip":"92.222.170.235","active":"true","signal":"a","maxconn":"150"}
   ]
 }
