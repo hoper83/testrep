@@ -50,6 +50,7 @@
     {"id":31, "file":44, "city":"Moscow","country":"Russia 2","image":"russia","ip":"66.90.95.14","active":"true","signal":"a","maxconn":"200"},
     {"id":32, "file":45, "city":"Sao Paulo","country":"Brazil","image":"brazil","ip":"50.7.1.66","active":"true","signal":"a","maxconn":"150"},
     {"id":33, "file":37, "city":"Paris","country":"France 2","image":"france","ip":"92.222.170.235","active":"true","signal":"a","maxconn":"200"},
-    {"id":34, "file":46, "city":"Singapore","country":"Singapore 6","image":"singapore","ip":"194.233.78.48","active":"true","signal":"a","maxconn":"360"}
+    {"id":34, "file":46, "city":"Singapore","country":"Singapore 6","image":"singapore","ip":"194.233.78.48","active":"true","signal":"a","maxconn":"360"},
+    {"id":35, "file":47, "city":"Milan","country":"Italy 4","image":"italy","ip":"92.223.79.162","active":"true","signal":"a","maxconn":"250"}
   ]
 }
