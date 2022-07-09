@@ -44,7 +44,7 @@
     {"id":25, "file":38, "city":"Sydney","country":"Australia 3","image":"australia","ip":"139.99.135.227","active":"true","signal":"a","maxconn":"40"},
     {"id":26, "file":39, "city":"Singapore","country":"Singapore","image":"singapore","ip":"194.233.93.37","active":"true","signal":"a","maxconn":"360"},
     {"id":27, "file":40, "city":"Singapore","country":"Singapore 4","image":"singapore","ip":"194.233.80.197","active":"true","signal":"a","maxconn":"360"},
-    {"id":28, "file":41, "city":"Milan","country":"Italy 2","image":"italy","ip":"83.229.6.83","active":"true","signal":"a","maxconn":"250"},
+    {"id":28, "file":41, "city":"Milan","country":"Italy 2","image":"italy","ip":"83.229.6.83","active":"true","signal":"a","maxconn":"350"},
     {"id":29, "file":42, "city":"Singapore","country":"Singapore 5","image":"singapore","ip":"154.26.133.71","active":"true","signal":"a","maxconn":"360"},
     {"id":30, "file":43, "city":"Milan","country":"Italy 3","image":"italy","ip":"89.223.94.28","active":"true","signal":"a","maxconn":"250"},
     {"id":31, "file":44, "city":"Moscow","country":"Russia 2","image":"russia","ip":"66.90.95.14","active":"true","signal":"a","maxconn":"250"},
