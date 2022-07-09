@@ -1,11 +1,11 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.1.8",
+    "version":"1.1.9",
     "title":"New Update is Available",
-    "description":"Software code optimization",
+    "description":"Fixed crash bug on previous version.",
     "size":"Size 10MB",
-    "versioncode": "27"
+    "versioncode": "28"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
