@@ -5,7 +5,7 @@
     "title":"New Update is Available",
     "description":"Update to the latest version, old versions will no longer be supported.",
     "size":"Size 10MB",
-    "versioncode": "36"
+    "versioncode": "37"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
