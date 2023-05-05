@@ -1,1 +1,21 @@
 
+{
+  "ads":"true",
+  "percent":"60",
+  "update":[{
+    "version":"1.2.9",
+    "title":"New Update is Available",
+    "description":"Update to the latest version, old versions will no longer be supported.",
+    "size":"Size 10MB",
+    "versioncode": "40"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.get.client"}
+  ],
+  "free":[  ]
+}
